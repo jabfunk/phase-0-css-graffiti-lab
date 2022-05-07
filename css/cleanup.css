@@ -1,1 +1,26 @@
 /* write your override styles here */
+.tag-1 {
+    display:flex;
+    width:max-content;
+    height:max-content;
+    
+}
+
+#wall #tag-2 {
+    z-index: 5;
+    display:flex
+}
+
+html {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#wall #tag-4 {
+    z-index: 3;
+    display: flex;
+}
+
+.tag-1 {
+    width: 950px;
+    height: 700px;
+}
